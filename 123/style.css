@@ -1,0 +1,72 @@
+
+body {
+    font: 100% arial, verdana, tahoma, sans-serif;
+    color: #FFF;
+    background-color:rgb(24, 24, 24);
+  }
+  
+  header {
+    background: hsl(0, 0%, 100%);
+    padding: 30px;
+    overflow: hidden;
+    color: black;
+    text-align: center;
+    margin-top: 15px;
+    border-radius: 10px;
+    width: 85%;
+    height: 0%;
+  }
+ 
+  img {
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    position: relative;
+    left:70px;
+    margin-left: 2px;
+  }
+
+  .gc {
+    padding: 8px 16px;
+    border-bottom: 2px solid gray;
+    border-radius: 8px;
+    background-color: #ffffff;
+    color: rgb(5, 169, 2);
+    padding: 8px 16px;
+    border-bottom: 2px solid gray;
+    border-radius: 8px;
+    width: 100% ;
+  }
+  .fc {
+    padding: 8px 16px;
+    border-bottom: 2px solid gray;
+    border-radius: 8px;
+    background-color: #ffffff;
+    color: rgb(169, 2, 2);
+    padding: 8px 16px;
+    border-bottom: 2px solid gray;
+    border-radius: 8px;
+    width: 100% ;
+   
+  }
+
+  ol {
+    list-style: none;
+    padding: 0;
+    color: black;
+  }
+
+  ol li {
+    background-color: #FFF;
+    padding: 8px 16px;
+    border-bottom: 2px solid gray;
+    border-radius: 8px;
+    
+  }
+  ol li:hover {
+    opacity: 0.8;
+  }
+
+  p {
+    margin: 4px 0;
+  }
